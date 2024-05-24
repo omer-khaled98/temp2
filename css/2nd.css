@@ -167,7 +167,7 @@
   /* <!-- end header --> */
     /* <!-- start landing --> */
     .landing {
-      background-image: url(/img/686998.jpg);
+      background-image: url(img/686998.jpg);
       background-size: cover;
       height: calc(100vh - 64px) ;
       /* border: 2px solid red; */
